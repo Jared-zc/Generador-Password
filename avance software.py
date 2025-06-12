@@ -32,3 +32,6 @@ def main():
     
     if not any([incluir_numeros, incluir_simbolos, incluir_mayusculas, incluir_minusculas]):
         print("Error: No se ha seleccionado ningún tipo de carácter para generar la contraseña.")
+
+if __name__ == "__main__":
+    main()
