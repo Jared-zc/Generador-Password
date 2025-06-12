@@ -54,5 +54,7 @@ python main.py
 
 ## ✍️ Autor
 
+```
 Desarrollado por [ Jared-zc]
 Este proyecto está en proceso de desarrollo :) .
+```
