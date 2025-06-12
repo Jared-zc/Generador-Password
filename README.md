@@ -49,14 +49,10 @@ python main.py
 - Python 3.x
 - No necesitas instalar nada más, todo viene con Python estándar (`random`, `string`)
 
----
-
-## 📄 Licencia
-
-Este proyecto es libre para usar y modificar.
 
 ---
 
 ## ✍️ Autor
 
 Desarrollado por [ Jared-zc]
+Este proyecto está en proceso de desarrollo :) .
