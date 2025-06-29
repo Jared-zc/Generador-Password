@@ -56,5 +56,5 @@ python main.py
 
 ```
 Desarrollado por [ Jared-zc]
-Este proyecto está en proceso de desarrollo :) .
+
 ```
