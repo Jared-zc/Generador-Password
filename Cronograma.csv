@@ -1,0 +1,9 @@
+Semana,Unidad,Tema,Subtemas
+1,Unidad 1,Introducción a la Resolución de Problemas,"¿Qué son los Problemas?, Tipos de problemas, Pasos para Resolver Problemas, Resolución de Problemas Mediante Computadores"
+2,Unidad 1,Entorno de Programación,"Introducción al Entorno de Desarrollo (parte 1 y 2), ¿Qué es la Depuración?"
+3,Unidad 2,Manejo de Datos,"Almacenamiento de datos, Variables, Tipos de datos, Operadores, Prioridad de las operaciones"
+4,Unidad 2,Algoritmos y Diagramas de Flujo,"Herramientas de Solución de Problemas Mediante Programación, Algoritmos, Diagramas de Flujo"
+5,Unidad 3,Condicionales,"Estructuras de Decisión, Operadores Racionales, Operadores Lógicos, Condicional IF"
+6,Unidad 3,Bucles,"Bucles, While, For, Alteradores de Bucles"
+7,Unidad 4,Estructura de Datos,"Tuplas, Listas, Diccionarios"
+8,Unidad 4,Funciones,"Ejecución de Funciones, Parámetros de una Función"
